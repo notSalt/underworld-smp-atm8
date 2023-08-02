@@ -1,0 +1,13 @@
+name = "Platforms"
+filename = "platforms-forge-1.19.0-1.10.2.02.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7280eb0664b702508ab4aad37fc35e2f38e04005"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4577340
+project-id = 244786
