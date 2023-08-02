@@ -2491,7 +2491,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "457cd4d38904194ec2e2afd9bafde61bc818ac57bba4489975142e90268f28e2"
+hash = "42b5235a4226ce02707b45c45cf81597a813e868b974e95adbb809319663a9ea"
 metafile = true
 
 [[files]]
@@ -2626,7 +2626,7 @@ metafile = true
 
 [[files]]
 file = "mods/everlasting-skins.pw.toml"
-hash = "ad87cd415eaf9122e05fed8a871493450b56ff8d1d995a961e389dd1eb7bae32"
+hash = "98ef8609ab0fe0ad67364c0507dead8bb26e685e8eaa9ba1a7383afae1ba0145"
 metafile = true
 
 [[files]]
